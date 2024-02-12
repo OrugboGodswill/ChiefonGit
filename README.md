@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChiefonGit
--  I’m interested in DataScience, Backend development, Al.
+-  I’m interested in DataScience, Backend development,   ML.
 -  I’m currently on a Data science roadmap [pandas,numpy,visualisation
 -  ,machine_learning, statistics, Scikit-Learn and more..]
 -  I’m looking to collaborate on Data science project...
